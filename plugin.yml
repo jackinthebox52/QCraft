@@ -1,0 +1,13 @@
+name: QuidditchCraft
+version: ${project.version}
+main: xyz.jackinthebox52.qc.Main
+api-version: 1.16
+authors: [ jackinthebox52 ]
+description: A nothing plugin
+website: jackinthebox52.github.io
+
+commands:
+   qc:
+      description: test
+      usage: /qc
+      permission: jackcraft.qc
